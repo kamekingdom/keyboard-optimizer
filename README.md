@@ -31,7 +31,7 @@ keyboard-optimizer/
 │   └── generate_japanese_words.py
 ├── generation_en.py            # Main script for English optimization
 ├── generation_jp.py            # Main script for Japanese optimization
-├── caliculate_similarity.py    # (Optional) Experimental similarity calc
+├── calculate_similarity.py    # (Optional) Experimental similarity calc
 ├── README.md                   # This file
 ```
 
