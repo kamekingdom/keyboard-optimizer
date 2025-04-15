@@ -1,4 +1,4 @@
-# 🔤 Keyboard Layout Optimizer
+# 🔤 Keyboard Layout Optimizer (2022)
 
 A Python-based optimization tool that evolves keyboard layouts to minimize finger movement cost when typing common words in either **English** or **Japanese**.
 
