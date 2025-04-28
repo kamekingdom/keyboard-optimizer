@@ -1,16 +1,16 @@
-# 🔤 Keyboard Layout Optimizer (2022)
+# Keyboard Layout Optimizer (2022)
 
 A Python-based optimization tool that evolves keyboard layouts to minimize finger movement cost when typing common words in either **English** or **Japanese**.
 
 ---
 
-## 🌍 Overview
+## Overview
 
 This project uses **genetic algorithms** to generate and evolve keyboard layouts that reduce typing effort. It supports both English and Japanese input optimization based on frequent word usage.
 
 ---
 
-## 🌟 Features
+## Features
 
 - Supports **two languages**: English and Japanese
 - **Elite selection** and **two-point crossover** genetic algorithm
@@ -20,7 +20,7 @@ This project uses **genetic algorithms** to generate and evolve keyboard layouts
 
 ---
 
-## 🔀 Project Structure
+## Project Structure
 
 ```
 keyboard-optimizer/
@@ -37,7 +37,7 @@ keyboard-optimizer/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Install Dependencies
 ```bash
@@ -58,7 +58,7 @@ python generation_jp.py
 
 ---
 
-## 📈 Output Example
+## Output Example
 
 ```
 Optimized keyboard layout for word "EXAMPLE":
@@ -75,7 +75,7 @@ Final Cost: 12.34
 
 ---
 
-## 🧠 Future Plans
+## Future Plans
 
 - Sentence-level optimization
 - Export optimized layouts (JSON / PNG)
@@ -84,7 +84,7 @@ Final Cost: 12.34
 
 ---
 
-## 📄 License
+## License
 
 MIT License
 
