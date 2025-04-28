@@ -90,5 +90,4 @@ MIT License
 
 ---
 
-Created by [@kamekingdom](https://github.com/kamekingdom) 🌟
-
+Created by [@kamekingdom](https://github.com/kamekingdom)
